@@ -1,0 +1,101 @@
+echo "If these dependencies are installed, press RETURN/ENTER"
+read edet
+play -n synth pl G2 pl B2 pl D3 pl G3 pl D4 pl G4 \
+    delay 0 .05 .1 .15 .2 .25 remix - fade 0 4 .1 norm -1 > temp &
+clear
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 0.1
+dialog --infobox "Welcome to the installer!" 0 0
+sleep 1
+rm temp

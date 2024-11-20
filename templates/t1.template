@@ -1,0 +1,3 @@
+echo "This installer needs the following dependencies:"
+echo "dialog, sox"
+echo "This program needs the following dependencies:"
